@@ -1,0 +1,12 @@
+def madlib():
+    body_part = input("Body Part: ")
+    verb = input("Verb: ")
+    adj1 = input("")
+    adj2 = input("")
+    adj3 = input("")
+    adj4 = input("")
+    adj5 = input("")
+    noun1 = input("")
+    noun2 = input("")
+    noun_plural_1 = input("")
+    noun_plural_2 = input("")
